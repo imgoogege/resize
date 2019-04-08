@@ -1,6 +1,4 @@
-# This package is no longer being updated! Please look for alternatives if that bothers you.
-
-Resize
+# Resize
 ======
 
 Image resizing for the [Go programming language](http://golang.org) with common interpolation methods.
